@@ -2,7 +2,7 @@
 
 # Laboratório de Redes 2 - Roteadores Wireless
 
-Aluno: Nicolas Matheus Ribeiro Lopes, Sara Oliveira
+Alunos: Nicolas Lopes, Sara Oliveira
 
 Professor: José de Assis
 
