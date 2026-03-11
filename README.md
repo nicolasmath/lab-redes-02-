@@ -78,4 +78,25 @@ Gateway: 192.168.0.1
 
 ---
 
+## **5. Implementação do laboratório real:**
 
+Após a instalação, a rede foi montada fisicamente no laboratório.
+
+Etapas realizadas:
+
+<p align="center">
+  <strong>Etapas realizadas:</strong><br><br>
+  <img src="Roteador 1.jpg" alt="Roteador1" width="600">
+</p>
+
+<p align="center">
+  <img src="Roteador 2.jpg" alt="Roteador1" width="600">
+</p>
+
+<p align="center">
+  <img src="Interface Roteador.jpg" alt="Interface Roteador.jpg" width="600">
+</p>
+
+Testes:
+
+(fotos e capturas de tela realizadas durante o laboratório)
