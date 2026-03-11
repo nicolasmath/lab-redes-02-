@@ -11,8 +11,8 @@ Data: 10/03/2026
 ---
 
 ## **1. Objetivo:**
-Realizar uma configuração básica de rede Wifi utilizando 1 roteador e 1 desktop
-
+- Realizar uma configuração básica de rede Wifi utilizando 1 roteador e 1 desktop
+- Criar uma rede invisível e alterar a senha de acesso para o roteador
 ---
 <!--
 O projeto será dividido em 2 etapas:
