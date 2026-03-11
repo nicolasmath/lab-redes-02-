@@ -56,3 +56,26 @@ Router --> |Wireless| Celular1
   <img src="Topologia0.png" alt="Topologia da rede" width="600">
 </p>
 
+---
+
+## **4. Plano de endereçamento IP:**
+
+Rede : 192.168.0.0/24
+
+Gateway: 192.168.0.1
+
+| Dispositivo | Tipo de IP | Ednereço IP | Observação |
+|-------------|-------------|-------------|-------------|
+| Roteador Wireless | Estático | 192.168.0.1 | IP do roteador/Gateway da rede |
+| Desktop | Reserva DHCP | Automático | IP atribuído automaticamente pelo roteador |
+
+**Observação**
+
+- O roteador wireless será responsável por distribuir endereços IP através do DHCP.
+- O desktop receberá o IP automaticamente ao conectar na rede.
+- A rede Wi-Fi será configurada como oculta (SSID invisível) para aumentar a segurança.
+- A senha padrão do roteador será alterada para evitar acesso não autorizado.
+
+---
+
+
