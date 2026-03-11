@@ -12,6 +12,8 @@ Data: 10/03/2026
 
 ## **1. Objetivo:**
 Realizar uma configuração básica de rede Wifi utilizando 1 roteador e 1 desktop
+
+---
 <!--
 O projeto será dividido em 2 etapas:
 
