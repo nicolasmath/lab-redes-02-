@@ -97,6 +97,19 @@ Etapas realizadas:
   <img src="Interface Roteador.jpg" alt="Interface Roteador.jpg" width="600">
 </p>
 
-Testes:
+---
 
-(fotos e capturas de tela realizadas durante o laboratório)
+## **5. Conclusão:**
+
+Este laboratório permitiu compreender o funcionamento básico de uma rede wireless simples, incluindo:
+
+- Estrutura de uma rede sem fio para ambiente doméstico ou pequeno escritório
+- Configuração de um roteador wireless com porta WAN e portas LAN
+- Alteração da senha de acesso do roteador para aumentar a segurança
+- Criação de uma rede Wi-Fi invisível (ocultação do SSID)
+- Funcionamento do serviço DHCP para atribuição automática de endereços IP
+- Conexão e comunicação de um desktop na rede local
+- Simulação da rede utilizando o Cisco Packet Tracer
+- Aplicação prática da configuração em ambiente de laboratório
+
+A atividade permitiu entender na prática como configurar e proteger uma rede wireless básica, além de reforçar conceitos fundamentais de redes de computadores utilizados em ambientes reais.
